@@ -1,0 +1,87 @@
+html {
+}
+
+*, *:before, *:after {
+}
+
+.position {
+	/* padding: 100px 0 0 100px; */
+}
+
+.container {
+
+
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+.logo_style_black {
+	/* background-color: #08699D; */
+	color: black;
+	font: 48px/64px "Zilla Slab", Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	    display: inline-block;
+
+	/* border: 5px solid white	;
+	border-radius: 50%;
+	 box-shadow: 0px 0px 0px 0.14em #08699D;
+	/* padding: 10px 0 0 10px; */ /* to fine tune letter position */
+}
+
+.logo_style_red {
+	/* background-color: #F75F00; */
+	    display: inline-block;
+
+	color: red;
+	font: 48px/64px "Zilla Slab", Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	
+	
+	/*  border: 5px solid white	;
+	border-radius: 50%;
+	box-shadow: 0px 0px 0px 0.14em #F75F00;
+	/* padding: 10px 0 0 10px; */ /* to fine tune letter position */
+	
+}
+
+.logo_style_black2 {
+	/* background-color: #2FAC1C; */
+	color: black;
+	font: 16px/18px "Zilla Slab", Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	font-style: italic;
+	width: 140px;
+	text-align: center;
+	padding: 00px 0 0 70px;
+	/* border: 5px solid white;
+	border-radius: 50%;
+	box-shadow: 0px 0px 0px 0.13em #2FAC1C; 
+	/* padding: 10px 0 0 10px; */ /* to fine tune letter position */
+}
+
+/* a:hover .logo_style_red {
+	background-color: #009F7B;
+	box-shadow: 0px 0px 0px 0.13em #009F7B;
+}
+
+a:hover .logo_style_black {
+	background-color: #F78600;
+	box-shadow: 0px 0px 0px 0.13em #F78600;
+}
+
+a:hover .logo_style_black2 {
+	background-color: #CB212D;
+	box-shadow: 0px 0px 0px 0.13em #CB212D;
+	* */
+}
+
+
+
+
+
+
+
+
